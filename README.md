@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vi-hu1717
+- 👋 Hi, I’m VISHWAS TR
 - 👀 I’m interested in tech infos
 - 🌱 I’m currently learning skills
 - 💞️ I’m looking to collaborate on web development 
